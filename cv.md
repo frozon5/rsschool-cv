@@ -31,3 +31,26 @@ studies that will help me realize my dreams. As for dreams, it's to see
 upcoming future, as I'm very much interested in the progress of technology,
 also I would love to see Northern Scandinavia like Norway, I do like
 nature and culture there.
+
+###### Skills:
+
+* Programing languages and frameworks I have :
+    * HTML,
+    * CSS,
+    * JavaScript,
+    * PHP,
+    * Java,
+    * JUNIT,
+    * Maven,
+    * React,
+    * Node.js.
+
+* Tools I used in the past:
+    * GitLab,
+    * GitHub,
+    * SmartGit,
+    * Android Studio,
+    * UnrealEngine,
+    * VS Code,
+    * IntelliJ,
+    * Docker.
