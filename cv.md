@@ -32,7 +32,7 @@ upcoming future, as I'm very much interested in the progress of technology,
 also I would love to see Northern Scandinavia like Norway, I do like
 nature and culture there.
 
-###### Skills:
+##### Skills:
 
 * Programing languages and frameworks I have :
     * HTML,
@@ -54,3 +54,10 @@ nature and culture there.
     * VS Code,
     * IntelliJ,
     * Docker.
+
+##### Experience:
+
+1. Flutter project - I am a part of a team creating an app that uses arduino module with BLE and sensors.
+2. Unreal Engine gaming app - for a university project I have created maze type FPS game.
+3. Web TODO-LIST app - this semester we are creating a project with node.js, react, JS. Other small projects.
+
