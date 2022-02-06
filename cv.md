@@ -65,3 +65,8 @@ nature and culture there.
 
 1. Bachelors degree in ecology and environmental management
 2. Currently a third year student in informatics, EPAM courses, UDEMY online learning.
+
+##### English:
+
+Most of my practice is talking in online social groups, gaming chats, forums.
+Outside of that I have little practice, but I have studied a lot in school and university alike. 
