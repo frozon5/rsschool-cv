@@ -61,3 +61,7 @@ nature and culture there.
 2. Unreal Engine gaming app - for a university project I have created maze type FPS game.
 3. Web TODO-LIST app - this semester we are creating a project with node.js, react, JS. Other small projects.
 
+##### Education:
+
+1. Bachelors degree in ecology and environmental management
+2. Currently a third year student in informatics, EPAM courses, UDEMY online learning.
